@@ -14,4 +14,4 @@
 > The contents of this repository show the end result of this code.
 ---
 
-<img src="/assets/colorful_ball.png" width="500" height="500" vertical-align: center>
+<img src="/assets/colorful_ball.png" width="500" height="500">
