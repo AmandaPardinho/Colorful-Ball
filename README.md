@@ -14,7 +14,7 @@
 > The contents of this repository show the end result of this code.
 ---
 
-<img src="/assets/colorful_ball.png" width="400" height="400">
+<img src="./assets/colorful_ball.png" width="350" height="350">
 
 ---
 
